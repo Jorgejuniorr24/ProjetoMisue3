@@ -1,5 +1,7 @@
 # NovoprojetoMisue
 
+O PROJETO RODA AO USAR O NG SERVE QUE VAI PARA O LOCAHOST 4200
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
 
 ## Development server
